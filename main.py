@@ -164,7 +164,7 @@ async def home():
 <title>SpecForge ⚙ API Generator</title>
 <style>
 /* -------------------------------
-    DARK/BLUE THEME VARIABLES
+    💧 DARK/BLUE THEME VARIABLES
 --------------------------------*/
 :root {
     --color-bg-deep: #010A10; /* Very dark blue */
